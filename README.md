@@ -8,7 +8,7 @@ What's it for? One pratical reason is the side-by-side comparison of different a
   </p>
 </div>
 
-<h3 align="center"><a href="https://christinaq8.github.io/A-B-audio-player-copy/" target="_blank">VIEW DEMO 🎵</h3>
+<h3 align="center"><a href="https://mattbartley.github.io/AB-Audio-Player/" target="_blank">VIEW DEMO 🎵</h3>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
